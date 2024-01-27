@@ -8,4 +8,4 @@ Lab 2 is start.
 [![Releases](https://img.shields.io/github/release/PaPaMyintAung03/sem/all.svg?style=flat-square)](https://github.com/PaPaMyintAung03/sem1/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https:/PaPaMyintAung03/img.shields.io/github/workflow/status//sem1/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaPaMyintAung03/sem1/<action name taken from main.yml>/<branch>?style=flat-square)
